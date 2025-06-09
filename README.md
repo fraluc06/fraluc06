@@ -17,9 +17,8 @@ I'm currently studying Computer Science at Sapienza University of Rome.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
----
-### Spotify Widget
 
+### Spotify Widget
 <div align="left">
   <a href="https://open.spotify.com/user/nl3l575snboexggjbsyq52vx9">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=nl3l575snboexggjbsyq52vx9&count=5" alt="Spotify recently played"  />
