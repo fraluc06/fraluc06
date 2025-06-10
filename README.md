@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✍️ About Me:
 I'm currently studying Computer Science at Sapienza University of Rome.
 
 
